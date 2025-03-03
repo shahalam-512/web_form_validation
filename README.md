@@ -25,7 +25,7 @@ This project features **SignIn** and **SignUp** forms with **front-end validatio
 - ![sssssssss](https://github.com/user-attachments/assets/5b5e4d41-f648-4fa4-9dd0-249b91a1d42f)
 
 
-### **🔹 SignUp Form:**
+ ** SignUp Form:**
 | Input Field   | Constraint |
 |--------------|------------|
 | **Username** | Cannot be empty |
@@ -43,20 +43,20 @@ This project features **SignIn** and **SignUp** forms with **front-end validatio
  
 
  **Successful SignUp**
-![Successful SignUp](![image](https://github.com/user-attachments/assets/e820e986-a1d6-4535-96b1-40b0594bfb66)
-)
+![image](https://github.com/user-attachments/assets/e820e986-a1d6-4535-96b1-40b0594bfb66)
+
 
  **Invalid Email Format**
-![Invalid Email](![email](https://github.com/user-attachments/assets/cb2663d2-1eb7-40c5-985d-a673b187542d)
-)
+![email](https://github.com/user-attachments/assets/cb2663d2-1eb7-40c5-985d-a673b187542d)
+
 
  **Phone Number Validation Error**
-![Phone Number Error](![phonenumbereror](https://github.com/user-attachments/assets/c24326c3-127f-47af-bb63-bba87513f64e)
-)
+![phonenumbereror](https://github.com/user-attachments/assets/c24326c3-127f-47af-bb63-bba87513f64e)
+
 
  **Password Mismatch**
-![Password Mismatch](![pssw](https://github.com/user-attachments/assets/d8310b44-6943-45be-acfc-3319613eaa62)
-)
+![pssw](https://github.com/user-attachments/assets/d8310b44-6943-45be-acfc-3319613eaa62)
+
 
  **gender unselected**
 ![gend](https://github.com/user-attachments/assets/200e613c-1c5e-478c-a308-bfc5a69e55e9)
